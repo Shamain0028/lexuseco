@@ -44,3 +44,9 @@
 a.foot{
 	color: #fff;
 }
+.feedback{
+	color: #fff;
+	background-color: #022b3a;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:left;
+}
